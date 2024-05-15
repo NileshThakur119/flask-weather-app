@@ -1,2 +1,3 @@
-# flask-weather-app
-python flask weather-app
+# Weather App
+
+#### Flask App created to check weather in major cites in India. 
